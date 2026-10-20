@@ -1,0 +1,8 @@
+{
+  "src": [
+    "pages/Index",
+    "pages/ClaimPage",
+    "pages/SettlePage",
+    "pages/RoomPage"
+  ]
+}

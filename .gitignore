@@ -1,0 +1,23 @@
+# DevEco / hvigor
+/node_modules
+/oh_modules
+/local.properties
+/.idea
+**/build
+/.hvigor
+.cxx
+/.clangd
+/.clang-format
+/.clang-tidy
+**/.test
+/.appanalyzer
+
+# Build artefacts
+*.hap
+*.hsp
+*.har
+CMakeLists.txt
+.local
+
+# DSH ops tooling temp locks
+.dsh-ops-update-*.lock

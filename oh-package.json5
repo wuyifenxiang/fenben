@@ -1,0 +1,8 @@
+{
+  "modelVersion": "26.0.0",
+  "name": "fenben",
+  "version": "0.1.0",
+  "description": "分账本 — 鸿蒙碰一碰即时分账",
+  "dependencies": {},
+  "devDependencies": {}
+}

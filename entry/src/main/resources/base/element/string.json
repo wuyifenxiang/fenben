@@ -1,0 +1,20 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "分账本主模块"
+    },
+    {
+      "name": "ability_desc",
+      "value": "分账本"
+    },
+    {
+      "name": "reason_datasync",
+      "value": "用于在聚餐时与同桌设备同步账单与认领结果"
+    },
+    {
+      "name": "reason_nfc",
+      "value": "用于碰一碰读取房间凭证，快速加入本次分账"
+    }
+  ]
+}
